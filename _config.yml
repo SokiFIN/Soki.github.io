@@ -1,5 +1,5 @@
-title: Test
-description: This is a github page for my portfolio!
+title: Soki Portfolio
+#description: This is a github page for my portfolio!
 remote_theme: pages-themes/time-machine@v0.2.0
 #plugins:
 #- jekyll-remote-theme
