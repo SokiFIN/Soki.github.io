@@ -9,7 +9,7 @@
 ### Projects
 
 <details open>
-  <summary><b>> Strung Flowers | Windows 10 - 11 Game</b></summary>
+  <summary><b>▸ Strung Flowers | Windows 10 - 11 Game</b></summary>
   <br>
   <div style="margin-left: 10px; line-height: 1;">
     3D Dice deckbuilder roguelike made with Unity.
@@ -26,8 +26,10 @@
   </div>
 
   <div style="margin-left: 10px; line-height: 1;">
-    <a href="https://sokifin.itch.io/strung-flowers" target="_blank" style="text-decoration: underline; color:#fa5c5c;">
-      Check out itch.io page
+    <a href="https://sokifin.itch.io/strung-flowers" target="_blank" style="text-decoration: underline;">
+      <span style="color:#fa5c5c; text-decoration: underline;">
+        Check out itch.io page
+      </span>
     </a>
   </div>
   <br>
@@ -46,7 +48,7 @@
 
 <details open>
   <br>
-  <summary><b>> Delivery Rush: Timeout | Mobile Game</b></summary>
+  <summary><b>▸ Delivery Rush: Timeout | Mobile Game</b></summary>
 
   <div style="margin-left: 10px; line-height: 1;">
     Time attack mobile game with vehicle deliveries in a city, made with Unity.
@@ -65,7 +67,9 @@
 
   <div style="margin-left: 10px; line-height: 1;">
     <a href="https://the-grape-king.itch.io/delivery-rush-timeout" target="_blank" style="text-decoration: underline; color:#fa5c5c;">
-      Check out itch.io page
+      <span style="color:#fa5c5c; text-decoration: underline;">
+        Check out itch.io page
+      </span>
     </a>
   </div>
   <br>
@@ -85,7 +89,7 @@
 
 <details open>
   <br>
-  <summary><b>> Strollmon - Walk Your Pet | Mobile Game</b></summary>
+  <summary><b>▸ Strollmon - Walk Your Pet | Mobile Game</b></summary>
 
   <div style="margin-left: 10px; line-height: 1;">
     3D game with 2D walk scene where players earn currency to customize their pet, made in Unreal Engine 5.
@@ -102,7 +106,9 @@
 
   <div style="margin-left: 10px; line-height: 1;" >
     <a href="https://nakkivene.itch.io/strollmon-walk-your-pet" target="_blank" style="text-decoration: underline; color:#fa5c5c;">
-      Check out itch.io page
+      <span style="color:#fa5c5c; text-decoration: underline;">
+        Check out itch.io page
+      </span>
     </a>
   </div>
 
