@@ -16,7 +16,7 @@
 
   <div style="margin-left: 20px; line-height: 1;">
     <ul>
-      <li>Basic enemy AI that throws dice and cheats a little.</li>
+      <li>Basic enemy AI that throws dice and tries to throw dice to get optimal dice outcomes.</li>
       <li>Shop & Inventory logic that remembers dice added to the deck.</li>
       <li>Camera side-to-side movement allowing 180° rotation.</li>
       <li>Editing & filming the trailer.</li>
@@ -53,11 +53,11 @@
 
   <div style="margin-left: 20px; line-height: 1;">
     <ul>
-      <li>UI design</li>
-      <li>Main menu logic</li>
-      <li>Pause logic</li>
-      <li>Shop logic with unlockable cars using in-game credit</li>
-      <li>Editing & filming the trailer</li>
+      <li>UI design.</li>
+      <li>Main menu logic.</li>
+      <li>Pause logic.</li>
+      <li>Shop logic with unlockable cars using in-game credit.</li>
+      <li>Editing & filming the trailer.</li>
     </ul>
   </div>
 
@@ -92,9 +92,9 @@
 
   <div style="margin-left: 20px; line-height: 1;">
     <ul>
-      <li>Step counter calling STEP_COUNTER API via C++ → Java</li>
-      <li>Main room UI logic in Blueprints</li>
-      <li>Walk scene logic in Blueprints calling C++ classes</li>
+      <li>Step counter calling STEP_COUNTER API sensor via C++ → Java with static functions.</li>
+      <li>Main room UI logic in Blueprints.</li>
+      <li>Walk scene logic in Blueprints calling C++ classes.</li>
     </ul>
   </div>
 
