@@ -34,7 +34,7 @@
   </div>
   <br>
   <div>
-      <iframe width="650" height="300"
+      <iframe width="600" height="300"
           src="https://www.youtube.com/embed/tn564fJtAK0"
           title="Trailer of the game"
           frameborder="0"
@@ -48,7 +48,7 @@
 
 <details open>
   <summary><b>▸ Delivery Rush: Timeout | Mobile Game</b></summary>
-  <img src="assets/picture/deliveryrush.png" alt="DeliveryRush" width="600" height="300">
+  <img src="assets/picture/deliveryrush.png" alt="DeliveryRush" width="800" height="300">
   <div style="margin-left: 10px; padding-top: 2px;">
     Time attack mobile game with vehicle deliveries in a city, made with Unity.
     <p><b>My contribution</b></p>
@@ -73,7 +73,7 @@
   </div>
   <br>
   <div>
-    <iframe width="650" height="300"
+    <iframe width="600" height="300"
         src="https://www.youtube.com/embed/KqmBHCEO14Y"
         title="Trailer of the game"
         frameborder="0"
