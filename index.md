@@ -10,7 +10,9 @@
 
 <details open>
   <summary><b>▸ Strung Flowers | Windows 10 - 11 Game</b></summary>
-  <img src="assets/picture/newstrungflowers.png" alt="StrungFlowers" width="800" height="300">
+  <div style="display: flex; justify-content: center; align-items: center;">
+    <img src="assets/picture/newstrungflowers.png" alt="StrungFlowers" width="600" height="300">
+  </div>
   <div style="margin-left: 10px; padding-top: 2px;">
     3D Dice deckbuilder roguelike made with Unity.
     <p><b>My contribution</b></p>
@@ -25,7 +27,7 @@
     </ul>
   </div>
 
-  <div style="margin-left: 10px; line-height: 1;">
+  <div style="margin-left: 10px; line-height: 1; ">
     <a href="https://sokifin.itch.io/strung-flowers" target="_blank" style="text-decoration: underline;">
       <span style="color:#fa5c5c; text-decoration: underline;">
         <b>Check out itch.io page</b>
@@ -48,7 +50,9 @@
 
 <details open>
   <summary><b>▸ Delivery Rush: Timeout | Mobile Game</b></summary>
-  <img src="assets/picture/deliveryrush.png" alt="DeliveryRush" width="800" height="300">
+  <div style="display: flex; justify-content: center; align-items: center;">
+    <img src="assets/picture/deliveryrush.png" alt="DeliveryRush" width= "600" height="300">
+  </div>
   <div style="margin-left: 10px; padding-top: 2px;">
     Time attack mobile game with vehicle deliveries in a city, made with Unity.
     <p><b>My contribution</b></p>
@@ -89,7 +93,9 @@
 <details open>
   <br>
   <summary><b>▸ Strollmon - Walk Your Pet | Mobile Game</b></summary>
-  <img src="assets/picture/strollmon.png" alt="Strollmon" width="800" height="300">
+  <div style="display: flex; justify-content: center; align-items: center;">
+    <img src="assets/picture/strollmon.png" alt="Strollmon" width="600" height="300">
+  </div>
   <div style="margin-left: 10px; padding-top: 2px;">
     3D game with 2D walk scene where players earn currency to customize their pet, made in Unreal Engine 5.
     <p><b>My contribution</b></p>
