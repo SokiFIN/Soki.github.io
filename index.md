@@ -1,3 +1,8 @@
+---
+layout: default
+title: About Me
+---
+
 # About me 
 <div style="margin-left: 10px; line-height: 1.5;">
   <img src="assets/picture/AlexanderPicture.png" alt="Alexander" width="300"> <br>  <br>
