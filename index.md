@@ -1,7 +1,8 @@
 # About me 
-<img src="assets/picture/AlexanderPicture.png" alt="Alexander" width="100"> <br> 
-
-I'm Alexander, a game developer passionate about UI design, UI programming, and developing games for mobile platforms.
+<div margin-left: 10px; line-height: 1;>
+  <img src="assets/picture/AlexanderPicture.png" alt="Alexander" width="150"> <br> 
+  I'm Alexander, a game developer passionate about UI design, UI programming, and developing games for mobile platforms but always open to other ways to improve my skills.
+</div>
 
 ### Projects
 
