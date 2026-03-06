@@ -33,7 +33,7 @@
     </a>
   </div>
   <br>
-  <div>
+  <div style="display: flex; justify-content: center; align-items: center;">
       <iframe width="600" height="300"
           src="https://www.youtube.com/embed/tn564fJtAK0"
           title="Trailer of the game"
@@ -72,7 +72,7 @@
     </a>
   </div>
   <br>
-  <div>
+  <div style="display: flex; justify-content: center; align-items: center;">
     <iframe width="600" height="300"
         src="https://www.youtube.com/embed/KqmBHCEO14Y"
         title="Trailer of the game"
