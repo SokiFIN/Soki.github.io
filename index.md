@@ -32,7 +32,7 @@
   <div style="margin-left: 10px; line-height: 1;">
     </a>
       <iframe width="560" height="315"
-          src="https://youtu.be/tn564fJtAK0"
+          src="https://www.youtube.com/embed/tn564fJtAK0"
           title="Trailer of the game"
           frameborder="0"
           allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
@@ -70,7 +70,7 @@
   <br>
   <div style="margin-left: 10px; line-height: 1;">
     <iframe width="560" height="315"
-        src="https://youtu.be/KqmBHCEO14Y"
+        src="https://www.youtube.com/embed/KqmBHCEO14Y"
         title="Trailer of the game"
         frameborder="0"
         allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
