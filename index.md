@@ -1,5 +1,5 @@
 # About me 
-<div margin-left: 10px; line-height: 1;>
+<div style="margin-left: 10px; line-height: 1;">
   <img src="assets/picture/AlexanderPicture.png" alt="Alexander" width="150"> <br> 
   I'm Alexander, a game developer passionate about UI design, UI programming, and developing games for mobile platforms but always open to other ways to improve my skills.
 </div>
@@ -28,7 +28,7 @@
       Check out itch.io page
     </a>
   </div>
-
+  <br>
   <div style="margin-left: 10px; line-height: 1;">
     <a href="https://youtu.be/tn564fJtAK0" target="_blank" style="text-decoration: underline;">
       Trailer of the game.
@@ -62,7 +62,7 @@
       Check out itch.io page
     </a>
   </div>
-
+  <br>
   <div style="margin-left: 10px; line-height: 1;">
     <a href="https://youtu.be/KqmBHCEO14Y" target="_blank" style="text-decoration: underline;">
       Trailer of the game.
