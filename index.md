@@ -6,8 +6,8 @@ I'm Alexander, a game developer passionate about UI design, UI programming, and 
 ### Projects
 
 <details open>
-  <summary><b>Strung Flowers</b></summary>
-
+  <summary><b>> Strung Flowers</b></summary>
+  <br>
   <div style="margin-left: 10px; line-height: 1.6;">
     3D Dice deckbuilder roguelike made with Unity.
     <p><b>My contribution</b></p>
@@ -22,13 +22,18 @@ I'm Alexander, a game developer passionate about UI design, UI programming, and 
     </ul>
   </div>
 
-  <a href="https://sokifin.itch.io/strung-flowers" target="_blank" style="text-decoration: underline;">
-    Check out itch.io page
-  </a>
+  <div style="margin-left: 10px; line-height: 1.6;">
+    <a href="https://sokifin.itch.io/strung-flowers" target="_blank" style="text-decoration: underline;">
+      Check out itch.io page
+    </a>
+  </div>
+
 </details>
+<br>
 
 <details open>
-  <summary><b>Delivery Rush: Timeout</b></summary>
+  <br>
+  <summary><b>> Delivery Rush: Timeout</b></summary>
 
   <div style="margin-left: 10px; line-height: 1.6;">
     Time attack mobile game with vehicle deliveries in a city, made in Unity.
@@ -45,13 +50,18 @@ I'm Alexander, a game developer passionate about UI design, UI programming, and 
     </ul>
   </div>
 
-  <a href="https://the-grape-king.itch.io/delivery-rush-timeout" target="_blank" style="text-decoration: underline;">
-    Check out itch.io page
-  </a>
+  <div style="margin-left: 10px; line-height: 1.6;">
+    <a href="https://the-grape-king.itch.io/delivery-rush-timeout" target="_blank" style="text-decoration: underline;">
+      Check out itch.io page
+    </a>
+  </div>
+
 </details>
+<br>
 
 <details open>
-  <summary><b>Strollmon - Walk Your Pet</b></summary>
+  <br>
+  <summary><b>> Strollmon - Walk Your Pet</b></summary>
 
   <div style="margin-left: 10px; line-height: 1.6;">
     3D game with 2D walk scene where players earn currency to customize their pet, made in Unreal Engine 5.
@@ -66,7 +76,10 @@ I'm Alexander, a game developer passionate about UI design, UI programming, and 
     </ul>
   </div>
 
-  <a href="https://nakkivene.itch.io/strollmon-walk-your-pet" target="_blank" style="text-decoration: underline;">
-    Check out itch.io page
-  </a>
+  <div style="margin-left: 10px; line-height: 1.6;">
+    <a href="https://nakkivene.itch.io/strollmon-walk-your-pet" target="_blank" style="text-decoration: underline;">
+      Check out itch.io page
+    </a>
+  </div>
+  
 </details>
