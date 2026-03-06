@@ -30,9 +30,14 @@
   </div>
   <br>
   <div style="margin-left: 10px; line-height: 1;">
-    <a href="https://youtu.be/tn564fJtAK0" target="_blank" style="text-decoration: underline;">
-      Trailer of the game.
     </a>
+      <iframe width="560" height="315"
+          src="https://youtu.be/tn564fJtAK0"
+          title="Trailer of the game"
+          frameborder="0"
+          allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          allowfullscreen>
+      </iframe>
   </div>
 <br>
 </details>
@@ -64,10 +69,15 @@
   </div>
   <br>
   <div style="margin-left: 10px; line-height: 1;">
-    <a href="https://youtu.be/KqmBHCEO14Y" target="_blank" style="text-decoration: underline;">
-      Trailer of the game.
-    </a>
+    <iframe width="560" height="315"
+        src="https://youtu.be/KqmBHCEO14Y"
+        title="Trailer of the game"
+        frameborder="0"
+        allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        allowfullscreen>
+    </iframe>
   </div>
+
 <br>
 </details>
 
