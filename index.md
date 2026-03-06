@@ -36,7 +36,7 @@ I'm Alexander, a game developer passionate about UI design, UI programming, and 
   <summary><b>> Delivery Rush: Timeout</b></summary>
 
   <div style="margin-left: 10px; line-height: 1;">
-    Time attack mobile game with vehicle deliveries in a city, made in Unity.
+    Time attack mobile game with vehicle deliveries in a city, made with Unity.
     <p><b>My contribution</b></p>
   </div>
 
