@@ -1,5 +1,5 @@
 # About me 
-<img src="assets/picture/AlexanderPicture.png" alt="Alexander" width="70"> <br> 
+<img src="assets/picture/AlexanderPicture.png" alt="Alexander" width="100"> <br> 
 
 I'm Alexander, a game developer passionate about UI design, UI programming, and developing games for mobile platforms.
 
@@ -27,9 +27,9 @@ I'm Alexander, a game developer passionate about UI design, UI programming, and 
       Check out itch.io page
     </a>
   </div>
-
-</details>
 <br>
+</details>
+
 
 <details open>
   <br>
@@ -55,9 +55,9 @@ I'm Alexander, a game developer passionate about UI design, UI programming, and 
       Check out itch.io page
     </a>
   </div>
-
-</details>
 <br>
+</details>
+
 
 <details open>
   <br>
@@ -81,5 +81,5 @@ I'm Alexander, a game developer passionate about UI design, UI programming, and 
       Check out itch.io page
     </a>
   </div>
-  
+
 </details>
