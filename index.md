@@ -28,6 +28,12 @@
       Check out itch.io page
     </a>
   </div>
+
+  <div style="margin-left: 10px; line-height: 1;">
+    <a href="https://youtu.be/tn564fJtAK0" target="_blank" style="text-decoration: underline;">
+      Trailer of the game.
+    </a>
+  </div>
 <br>
 </details>
 
@@ -54,6 +60,12 @@
   <div style="margin-left: 10px; line-height: 1;">
     <a href="https://the-grape-king.itch.io/delivery-rush-timeout" target="_blank" style="text-decoration: underline;">
       Check out itch.io page
+    </a>
+  </div>
+
+  <div style="margin-left: 10px; line-height: 1;">
+    <a href="https://youtu.be/KqmBHCEO14Y" target="_blank" style="text-decoration: underline;">
+      Trailer of the game.
     </a>
   </div>
 <br>
