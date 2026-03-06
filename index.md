@@ -11,7 +11,7 @@
 <details open>
   <summary><b>▸ Strung Flowers | Windows 10 - 11 Game</b></summary>
   <br>
-  <div style="margin-left: 10px; line-height: 1;">
+  <div style="margin-left: 10px; line-height: 0.5;">
     3D Dice deckbuilder roguelike made with Unity.
     <p><b>My contribution</b></p>
   </div>
@@ -50,7 +50,7 @@
   <br>
   <summary><b>▸ Delivery Rush: Timeout | Mobile Game</b></summary>
 
-  <div style="margin-left: 10px; line-height: 1;">
+  <div style="margin-left: 10px; line-height: 0.5;">
     Time attack mobile game with vehicle deliveries in a city, made with Unity.
     <p><b>My contribution</b></p>
   </div>
@@ -91,7 +91,7 @@
   <br>
   <summary><b>▸ Strollmon - Walk Your Pet | Mobile Game</b></summary>
 
-  <div style="margin-left: 10px; line-height: 1;">
+  <div style="margin-left: 10px; line-height: 0.5;">
     3D game with 2D walk scene where players earn currency to customize their pet, made in Unreal Engine 5.
     <p><b>My contribution</b></p>
   </div>
@@ -127,10 +127,10 @@
 
 <div style="margin-left: 10px;"> 
   <a href="mailto:emil.vaisanen01@hotmail.com" style="text-decoration: underline; color:#0000FF;">
-    Contact me via Email
+    <b>Contact me via Email</b>
   </a> <br>
 
   <a href="https://www.linkedin.com/in/emil-v%C3%A4is%C3%A4nen/" target="_blank" style="text-decoration: underline; color:#0000FF;">
-    LinkedIn
+    <b>LinkedIn</b>
   </a>
 </div>
