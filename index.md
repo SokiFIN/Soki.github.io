@@ -105,7 +105,6 @@
   </div>
 
 </details>
-<br>
 
 ### Studies
 <div style="margin-left: 10px;">
