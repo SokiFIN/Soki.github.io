@@ -28,7 +28,7 @@
   <div style="margin-left: 10px; line-height: 1;">
     <a href="https://sokifin.itch.io/strung-flowers" target="_blank" style="text-decoration: underline;">
       <span style="color:#fa5c5c; text-decoration: underline;">
-        Check out itch.io page
+        <b>Check out itch.io page</b>
       </span>
     </a>
   </div>
@@ -68,7 +68,7 @@
   <div style="margin-left: 10px; line-height: 1;">
     <a href="https://the-grape-king.itch.io/delivery-rush-timeout" target="_blank" style="text-decoration: underline; color:#fa5c5c;">
       <span style="color:#fa5c5c; text-decoration: underline;">
-        Check out itch.io page
+        <b>Check out itch.io page</b>
       </span>
     </a>
   </div>
@@ -107,7 +107,7 @@
   <div style="margin-left: 10px; line-height: 1;" >
     <a href="https://nakkivene.itch.io/strollmon-walk-your-pet" target="_blank" style="text-decoration: underline; color:#fa5c5c;">
       <span style="color:#fa5c5c; text-decoration: underline;">
-        Check out itch.io page
+        <b>Check out itch.io page</b>
       </span>
     </a>
   </div>
