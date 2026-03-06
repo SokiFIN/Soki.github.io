@@ -26,7 +26,7 @@
   </div>
 
   <div style="margin-left: 10px; line-height: 1;">
-    <a href="https://sokifin.itch.io/strung-flowers" target="_blank" style="text-decoration: underline;">
+    <a href="https://sokifin.itch.io/strung-flowers" target="_blank" style="text-decoration: underline; color:#fa5c5c;">
       Check out itch.io page
     </a>
   </div>
@@ -64,7 +64,7 @@
   </div>
 
   <div style="margin-left: 10px; line-height: 1;">
-    <a href="https://the-grape-king.itch.io/delivery-rush-timeout" target="_blank" style="text-decoration: underline;">
+    <a href="https://the-grape-king.itch.io/delivery-rush-timeout" target="_blank" style="text-decoration: underline; color:#fa5c5c;">
       Check out itch.io page
     </a>
   </div>
@@ -100,8 +100,8 @@
     </ul>
   </div>
 
-  <div style="margin-left: 10px; line-height: 1;">
-    <a href="https://nakkivene.itch.io/strollmon-walk-your-pet" target="_blank" style="text-decoration: underline;">
+  <div style="margin-left: 10px; line-height: 1;" >
+    <a href="https://nakkivene.itch.io/strollmon-walk-your-pet" target="_blank" style="text-decoration: underline; color:#fa5c5c;">
       Check out itch.io page
     </a>
   </div>
@@ -120,11 +120,11 @@
 ### Contact me.
 
 <div style="margin-left: 10px;"> 
-  <a href="mailto:emil.vaisanen01@hotmail.com" style="text-decoration: underline;">
+  <a href="mailto:emil.vaisanen01@hotmail.com" style="text-decoration: underline; color:#0000FF;">
     Contact me via Email
   </a> <br>
 
-  <a href="https://www.linkedin.com/in/emil-v%C3%A4is%C3%A4nen/" target="_blank" style="text-decoration: underline;">
+  <a href="https://www.linkedin.com/in/emil-v%C3%A4is%C3%A4nen/" target="_blank" style="text-decoration: underline; color:#0000FF;">
     LinkedIn
   </a>
 </div>
