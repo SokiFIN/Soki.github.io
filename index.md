@@ -1,6 +1,6 @@
 # About me 
 <div style="margin-left: 10px; line-height: 1;">
-  <img src="assets/picture/AlexanderPicture.png" alt="Alexander" width="150"> <br> 
+  <img src="assets/picture/AlexanderPicture.png" alt="Alexander" width="300"> <br>  <br>
   I'm Alexander, a game developer passionate about UI design, UI programming, and developing games for mobile platforms but always open to other ways to improve my skills.
 </div>
 
@@ -29,8 +29,7 @@
     </a>
   </div>
   <br>
-  <div style="margin-left: 10px; line-height: 1;">
-    </a>
+  <div>
       <iframe width="560" height="315"
           src="https://www.youtube.com/embed/tn564fJtAK0"
           title="Trailer of the game"
@@ -68,7 +67,7 @@
     </a>
   </div>
   <br>
-  <div style="margin-left: 10px; line-height: 1;">
+  <div>
     <iframe width="560" height="315"
         src="https://www.youtube.com/embed/KqmBHCEO14Y"
         title="Trailer of the game"
