@@ -124,12 +124,12 @@
 ### Contact me.
 
 <div style="margin-left: 10px; padding-top: -2px;"> 
-<img src="assets/picture/email.png" alt="email" width="30" style="position: relative; top: 1px;">
+<img src="assets/picture/email.png" alt="email" width="30" style="position: relative; top: 3px;">
   <a href="mailto:emil.vaisanen01@hotmail.com" style="text-decoration: underline; color:#0000FF;">
     <b>Contact me via Email</b>
   </a> <br>
 
-  <img src="assets/picture/linkedin.svg" alt="linkedin" width="30" style="position: relative; top: 1px;">
+  <img src="assets/picture/linkedin.svg" alt="linkedin" width="30" style="position: relative; top: 3px;">
   <a href="https://www.linkedin.com/in/emil-v%C3%A4is%C3%A4nen/" target="_blank" style="text-decoration: underline; color:#0000FF;">
     <b>   LinkedIn</b>
   </a>
