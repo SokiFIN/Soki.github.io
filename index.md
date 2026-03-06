@@ -34,7 +34,7 @@
   </div>
   <br>
   <div>
-      <iframe width="625" height="300"
+      <iframe width="600" height="300"
           src="https://www.youtube.com/embed/tn564fJtAK0"
           title="Trailer of the game"
           frameborder="0"
@@ -73,7 +73,7 @@
   </div>
   <br>
   <div>
-    <iframe width="625" height="300"
+    <iframe width="600" height="300"
         src="https://www.youtube.com/embed/KqmBHCEO14Y"
         title="Trailer of the game"
         frameborder="0"
