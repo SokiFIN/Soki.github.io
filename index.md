@@ -1,5 +1,5 @@
 # About me 
-<div style="margin-left: 10px; line-height: 1;">
+<div style="margin-left: 10px; line-height: 1.5;">
   <img src="assets/picture/AlexanderPicture.png" alt="Alexander" width="300"> <br>  <br>
   I'm Alexander, a game developer passionate about UI design, UI programming, and developing games for mobile platforms but always open to other ways to improve my skills.
   <br>
@@ -120,7 +120,11 @@
 ### Contact me.
 
 <div style="margin-left: 10px;"> 
-      <a href="emil.vaisanen01@hotmail.com" target="_blank" style="text-decoration: underline;">Contact me via Email</a> <br>
-      <a href="https://www.linkedin.com/in/emil-v%C3%A4is%C3%A4nen/" target="_blank" style="text-decoration: underline;">
-      LinkedIn.
+  <a href="mailto:emil.vaisanen01@hotmail.com" style="text-decoration: underline;">
+    Contact me via Email
+  </a> <br>
+
+  <a href="https://www.linkedin.com/in/emil-v%C3%A4is%C3%A4nen/" target="_blank" style="text-decoration: underline;">
+    LinkedIn
+  </a>
 </div>
