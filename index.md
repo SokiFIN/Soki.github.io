@@ -108,7 +108,10 @@
 <br>
 
 ### Studies
-<div style="margin-left: 10px;">
-  - Kajaani University of Applied Sciences. Bachelor's Degree in Business Information Techonology, Game Development:
-  <br> 2023 - 2026
-</div>
+  <div style="margin-left: 10px;">
+    - Kajaani University of Applied Sciences. Bachelor's Degree in Business Information Techonology, Game Development:
+  </div>
+  <br>
+    <div style="margin-left: 20px;">
+    2023 - 2026
+  </div>
