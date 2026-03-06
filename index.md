@@ -123,7 +123,7 @@
 
 ### Contact me.
 
-<div style="margin-left: 10px; line-height 1.5"> 
+<div style="margin-left: 10px; padding-top: 2px;"> 
   <a href="mailto:emil.vaisanen01@hotmail.com" style="text-decoration: underline; color:#0000FF;">
     <b>Contact me via Email</b>
   </a> <br>
