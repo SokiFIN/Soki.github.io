@@ -1,3 +1,9 @@
+---
+title: Soki Portfolio
+layout: default
+description: Game Programmer | UI & Mobile
+---
+
 # About me
 <img src="assets/picture/AlexanderPicture.png" alt="Alexander" width="50">
 <br>
