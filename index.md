@@ -7,7 +7,7 @@
 ### Projects
 
 <details open>
-  <summary><b>> Strung Flowers</b></summary>
+  <summary><b>> Strung Flowers | Windows 10 - 11 Game</b></summary>
   <br>
   <div style="margin-left: 10px; line-height: 1;">
     3D Dice deckbuilder roguelike made with Unity.
@@ -44,7 +44,7 @@
 
 <details open>
   <br>
-  <summary><b>> Delivery Rush: Timeout</b></summary>
+  <summary><b>> Delivery Rush: Timeout | Mobile Game</b></summary>
 
   <div style="margin-left: 10px; line-height: 1;">
     Time attack mobile game with vehicle deliveries in a city, made with Unity.
@@ -83,7 +83,7 @@
 
 <details open>
   <br>
-  <summary><b>> Strollmon - Walk Your Pet</b></summary>
+  <summary><b>> Strollmon - Walk Your Pet | Mobile Game</b></summary>
 
   <div style="margin-left: 10px; line-height: 1;">
     3D game with 2D walk scene where players earn currency to customize their pet, made in Unreal Engine 5.
