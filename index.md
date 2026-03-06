@@ -5,7 +5,7 @@
 
 3D Dice deckbuilder roguelike made with Unity.
 
-<p><b>My contribution</b></p>
+<p><b>> My contribution</b></p>
 <div style="margin-left: 20px; line-height: 1.6;">
   <ul>
     <li>Basic enemy AI that throws dice and cheats a little.</li>
@@ -18,9 +18,10 @@
 <a href="https://sokifin.itch.io/strung-flowers" target="_blank" style="text-decoration: underline;">
   Check out itch.io page
 </a>
+<br>
 
 <details open>
-<summary><b>Delivery Rush: Timeout</b></summary>
+<summary><b>> Delivery Rush: Timeout</b></summary>
 
 Time attack mobile game with vehicle deliveries in a city, made in Unity.
 
@@ -38,9 +39,10 @@ Time attack mobile game with vehicle deliveries in a city, made in Unity.
 <a href="https://the-grape-king.itch.io/delivery-rush-timeout" target="_blank" style="text-decoration: underline;">
   Check out itch.io page</a>
 </details>
+<br>
 
 <details open>
-<summary><b>Strollmon - Walk Your Pet</b></summary>
+<summary><b>> Strollmon - Walk Your Pet</b></summary>
 
 3D game with 2D walk scene where players earn currency to customize their pet, made in Unreal Engine 5.
 
