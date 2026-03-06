@@ -2,6 +2,8 @@
 <div style="margin-left: 10px; line-height: 1;">
   <img src="assets/picture/AlexanderPicture.png" alt="Alexander" width="300"> <br>  <br>
   I'm Alexander, a game developer passionate about UI design, UI programming, and developing games for mobile platforms but always open to other ways to improve my skills.
+  <br>
+  I've always been interested in user interface design and how to make interfaces more accessible for everyone. I enjoy creating UI that improves the player's experience and makes games more enjoyable.
 </div>
 
 ### Projects
@@ -108,8 +110,17 @@
 
 ### Studies
 <div style="margin-left: 10px;">
-  Kajaani University of Applied Sciences. Bachelor's Degree in Business Information Technology, Game Development:
+  Kajaani University of Applied Sciences, <br>
+  Bachelor of Business Administration, Game Development:
 </div>
 <div style="margin-left: 30px;">
   2023 - 2026
+</div>
+
+### Contact me.
+
+<div style="margin-left: 10px;"> 
+      <a href="emil.vaisanen01@hotmail.com" target="_blank" style="text-decoration: underline;">Contact me via Email</a> <br>
+      <a href="https://www.linkedin.com/in/emil-v%C3%A4is%C3%A4nen/" target="_blank" style="text-decoration: underline;">
+      LinkedIn.
 </div>
