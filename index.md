@@ -113,7 +113,7 @@
 </details>
 
 ### Studies
-<div style="margin-left: 10px;">
+<div style="margin-left: 10px; padding-top: -2px;">
   Kajaani University of Applied Sciences, <br>
   Bachelor of Business Administration, Game Development:
 </div>
@@ -123,12 +123,14 @@
 
 ### Contact me.
 
-<div style="margin-left: 10px; padding-top: 2px;"> 
+<div style="margin-left: 10px; padding-top: -2px;"> 
+<img src="assets/picture/email.png" alt="email" width="50">
   <a href="mailto:emil.vaisanen01@hotmail.com" style="text-decoration: underline; color:#0000FF;">
     <b>Contact me via Email</b>
   </a> <br>
 
+  <img src="assets/picture/linkedin.svg" alt="linkedin" width="50">
   <a href="https://www.linkedin.com/in/emil-v%C3%A4is%C3%A4nen/" target="_blank" style="text-decoration: underline; color:#0000FF;">
-    <b>LinkedIn</b>
+    <b>   LinkedIn</b>
   </a>
 </div>
